@@ -28,7 +28,7 @@ function CalculatorContainer(){
     
     return(
         <>
-            <div className="w-full max-w-sm mx-auto mt-10 p-6 bg-gray-100 rounded-lg shadow-lg">
+            <div className="w-full max-w-sm mx-auto mt-40 p-6 bg-gray-100 rounded-lg shadow-lg">
                 <div className="flex flex-col items-center">
                     <div  className="mb-4 w-full h-12 bg-white rounded-lg shadow-inner text-right p-3 text-xl font-semibold">
                         {displayValue}
